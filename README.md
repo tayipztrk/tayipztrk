@@ -1,6 +1,6 @@
 ### Hi there, I'm Tayip Ozturk [Tayipztrk][website] 👋
 
-## I'm a Developer, Student!!
+## I'm a Developer and CS Student!!
 
 - 🔭 I’m currently working as a freelancer. 
 - 🌱 I’m currently learning everything 🤣
