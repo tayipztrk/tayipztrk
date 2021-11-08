@@ -3,7 +3,7 @@
 ## I'm a Developer and CS Student!!
 
 - 🔭 I’m currently working as a freelancer. 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything.
 - 🥅 2021 Goals: Work in company as a front-end developer.
 - ⚡ Fun fact: I love to swim and soccer
 
